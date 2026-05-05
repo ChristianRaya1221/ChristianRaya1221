@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second year software engineering student, currently working on my own portfolio website as well as meeting metrics dashboard for a club.
+I am a second year software engineering student at University of California-Irvine, currently working on my own portfolio website as well as meeting metrics dashboard for the Society of Hispanic Professional Engineers. 
 
 
 ## 🌐 Socials:
